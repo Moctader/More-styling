@@ -1,0 +1,68 @@
+main {
+    font-family: Georgia;
+}
+
+p {
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    color: black;
+    font-family: Georgia;
+}
+
+h1 {
+    color: rgb(58, 17, 206);
+    font-style: italic;
+    margin-left: 20px;
+    padding-top: 20px;
+} 
+
+h2 {
+    background-color: rgb(19, 182, 241);
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 10px;
+    
+}
+
+h3 {
+    background-color: rgb(198, 209, 212);
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 10px;
+}
+
+h4 {
+    background-color: rgb(61, 137, 158);
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 10px;
+}
+
+h5 {
+
+    background-color: rgb(121, 135, 139);
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 10px;
+
+}
+
+h6 {
+    margin-left: 20px;
+    padding-bottom: 20px;
+}
+
+body {
+    background-color: cadetblue;
+}
+
+main {
+    background-color: white;
+    border-radius: 10px;
+    padding: 90px;
+}
