@@ -1,68 +1,23 @@
-body {
-    background-color: cadetblue;
-}
-
-main {
+.Different-font{
     font-family: Georgia;
-    background-color: white;
-    border-radius: 10px;
-    padding: 90px;
-}
-
-p {
-    font-size: 20px;
-    margin-left: 100px;
-    margin-right: 100px;
-    border-radius: 10px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    padding: 20px;
-    color: black;
-    font-family: Georgia;
-}
-
-h1 {
-    color: rgb(58, 17, 206);
+    color: #347b98;
     font-style: italic;
-    margin-left: 20px;
-    padding-top: 20px;
-} 
-
-h2 {
-    background-color: rgb(19, 182, 241);
-    margin-left: 100px;
-    margin-right: 100px;
-    border-radius: 10px;
     
 }
 
-h3 {
-    background-color: rgb(198, 209, 212);
+main {
     margin-left: 100px;
     margin-right: 100px;
+    padding: 20px;
     border-radius: 10px;
+    background-color: blanchedalmond;
 }
 
-h4 {
-    background-color: rgb(61, 137, 158);
-    margin-left: 100px;
-    margin-right: 100px;
-    border-radius: 10px;
+.margins-para1 {
+    background-color:#E4F1F6 ;
 }
 
-h5 {
-
-    background-color: rgb(121, 135, 139);
-    margin-left: 100px;
-    margin-right: 100px;
-    border-radius: 10px;
-
+.margins-para2 {background-color: #e6e6e6;
+    
 }
-
-h6 {
-    margin-left: 20px;
-    padding-bottom: 20px;
-}
-
-
 
